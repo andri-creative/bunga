@@ -19,7 +19,7 @@
 
 ## 📖 Tentang Proyek
 
-**Bunga** adalah aplikasi web interaktif yang menampilkan animasi bunga yang indah dengan efek mengetik teks. Cocok untuk dijadikan hadiah digital romantis atau ucapan spesial kepada orang tersayang! 💝
+**Bunga** adalah aplikasi web interaktif yang menampilkan animasi bunga dengan efek pengetikan teks. Proyek ini dirancang sebagai media hadiah digital atau penyampaian ucapan khusus kepada orang terdekat. 💝
 
 ### ✨ Fitur Utama
 
@@ -92,7 +92,7 @@ bunga/
 
 ## 🚀 Cara Menggunakan
 
-### Metode 1: Langsung di Browser (Paling Mudah)
+### Metode 1: Akses Langsung melalui Browser
 
 1. **Clone repository** ini:
    ```bash
@@ -100,15 +100,15 @@ bunga/
    cd bunga
    ```
 
-2. **Buka file** `index.html` di browser favorit Anda
-   - Double-click file `index.html`, atau
-   - Drag & drop ke browser window
+2. **Buka file** `index.html` pada browser pilihan Anda
+   - Double-click pada file `index.html`, atau
+   - Drag & drop ke jendela browser
 
-3. **Klik tombol "Open"** untuk melihat animasi bunga 🌸
+3. **Klik tombol "Open"** untuk menampilkan animasi bunga 🌸
 
 ### Metode 2: Menggunakan Local Server (Direkomendasikan)
 
-Jika asset tidak terbaca atau ingin pengalaman lebih baik:
+Gunakan metode ini apabila aset tidak terbaca atau untuk pengalaman yang lebih optimal:
 
 **Dengan VS Code + Live Server:**
 ```bash
@@ -212,23 +212,23 @@ Jika ingin menggunakan domain sendiri:
 
 ## 💡 Tips & Trik
 
-- 🎯 **Gunakan di special occasions** - Ulang tahun, anniversary, valentine
-- 📸 **Screenshot & share** - Bagikan ke social media
-- 🎁 **Personalisasi pesan** - Buat lebih spesial dengan nama
-- 🌈 **Eksperimen warna** - Sesuaikan dengan tema favorit
-- 📱 **Test di mobile** - Pastikan tampil bagus di semua device
+- 🎯 **Gunakan pada acara khusus** - Ulang tahun, hari jadi, hari valentine
+- 📸 **Tangkap layar dan bagikan** - Dapat dibagikan ke media sosial
+- 🎁 **Personalisasi pesan** - Tambahkan sentuhan personal dengan menyertakan nama
+- 🌈 **Eksperimen dengan warna** - Sesuaikan dengan preferensi tema
+- 📱 **Uji pada perangkat mobile** - Pastikan tampilan optimal di berbagai perangkat
 
 ---
 
 ## 🤝 Kontribusi
 
-Kontribusi sangat diterima! Jika Anda ingin berkontribusi:
+Kontribusi terhadap proyek ini sangat terbuka. Apabila Anda ingin berkontribusi, silakan ikuti langkah berikut:
 
 1. Fork repository ini
-2. Buat branch fitur (`git checkout -b fitur-baru`)
-3. Commit perubahan (`git commit -m 'Menambahkan fitur baru'`)
+2. Buat branch fitur baru (`git checkout -b fitur-baru`)
+3. Commit perubahan yang dilakukan (`git commit -m 'Menambahkan fitur baru'`)
 4. Push ke branch (`git push origin fitur-baru`)
-5. Buat Pull Request
+5. Ajukan Pull Request
 
 ---
 
@@ -238,9 +238,9 @@ Proyek ini bebas digunakan untuk keperluan pribadi dan komersial.
 
 ---
 
-## 💖 Dibuat dengan Cinta
+## 💖 Apresiasi
 
-Jika proyek ini bermanfaat, jangan lupa beri ⭐ di repository!
+Apabila proyek ini bermanfaat bagi Anda, silakan berikan ⭐ pada repository ini sebagai bentuk dukungan.
 
 <div align="center">
 
